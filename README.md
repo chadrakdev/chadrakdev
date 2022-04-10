@@ -16,4 +16,4 @@
 You can keep up with my professional career on LinkedIn or hop over to my Instagram <i> coming soon </i> for my personal journey from Graphic Design graduate to Front End Develoepr.
 <br /><br />
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=linkedin&logoColor=0077B5)
-![Instagram](https://img.shields.io/badge/Instagram-20232A?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com)
+[![Instagram](https://img.shields.io/badge/Instagram-20232A?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com)]
