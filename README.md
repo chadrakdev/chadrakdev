@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chadrakh&count_private=true&show_icons=true&theme=onedark&custom_title=Chadrak's&nbsp;GitHub&nbsp;Profile&bg_color=0d1117&icon_color=61DAFB&text_color=ffffff&title_color=ffffff&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chadrakh&count_private=true&show_icons=true&theme=onedark&custom_title=Chadrak's&nbsp;GitHub&nbsp;Profile&bg_color=0d1117&icon_color=61DAFB&text_color=ffffff&title_color=ffffff&include_all_commits=true)
 
 ### Tech Stack
 ![HTML](https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=E34F26)
@@ -13,7 +13,7 @@
 ![Id](https://img.shields.io/badge/Adobe%20InDesign-20232A?style=for-the-badge&logo=Adobe%20InDesign&logoColor=FF3366)
 
 ## Get in Touch
-You can keep up with my professional career on LinkedIn or hop over to my Instagram <i> coming soon </i> for my personal journey from Graphic Design graduate to Front End Develoepr.
+You can keep up with my professional career on LinkedIn or hop over to my Instagram <i> coming soon </i> for my personal journey from Graphic Design graduate to Front End Developer.
 <br /><br />
-![LinkedIn](https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=linkedin&logoColor=0077B5)
-[![Instagram](https://img.shields.io/badge/Instagram-20232A?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-20232A.svg?style=for-the-badge&logo=Instagram&logoColor=0077B5)](https://www.linkedin.com/in/chadrak-holondo-5622a91bb/)
+[![Instagram](https://img.shields.io/badge/Instagram-20232A.svg?style=for-the-badge&logo=Instagram&logoColor=23E4405F)](https://www.instagram.com/chadrak.ai/)
