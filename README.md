@@ -15,7 +15,7 @@
 ## Get in Touch
 You can keep up with my professional career on LinkedIn or hop over to my Instagram <i> coming soon </i> for my personal journey from Graphic Design graduate to Front End Developer.
 <br /><br />
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-20232A.svg?style=for-the-badge&logo=Instagram&logoColor=0077B5)](https://www.linkedin.com/in/chadrak-holondo-5622a91bb/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-20232A.svg?style=for-the-badge&logo=Instagram&logoColor=0077B5)](https://uk.linkedin.com/in/chadrak-holondo-5622a91bb)
 [![Instagram](https://img.shields.io/badge/Instagram-20232A.svg?style=for-the-badge&logo=Instagram&logoColor=23E4405F)](https://www.instagram.com/chadrak.ai/)
 
 <!-- Stats & Badges
