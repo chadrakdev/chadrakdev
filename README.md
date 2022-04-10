@@ -1,5 +1,9 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chadrakh&count_private=true&show_icons=true&theme=onedark&custom_title=Chadrak's&nbsp;GitHub&nbsp;Profile&bg_color=0d1117&icon_color=61DAFB&text_color=ffffff&title_color=ffffff&include_all_commits=true)
 
+## ✨ Project Spotlight
+### React Expense Tracker
+A responsive expense tracker using React which allows you to add new expenses, filter existing expenses, and it also provides a visual of exenditures for the chosen year by month. The next update will be to save new expenses to local storage when the application is ran and to add an export button which will allow the user to export the expenditures.
+
 ### Tech Stack
 ![HTML](https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=1572B6)
@@ -12,7 +16,7 @@
 ![Ps](https://img.shields.io/badge/Adobe%20Photoshop-20232A?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=31A8FF)
 ![Id](https://img.shields.io/badge/Adobe%20InDesign-20232A?style=for-the-badge&logo=Adobe%20InDesign&logoColor=FF3366)
 
-## Get in Touch
+## 📧 Get in Touch
 You can keep up with my professional career on LinkedIn or hop over to my Instagram <i> coming soon </i> for my personal journey from Graphic Design graduate to Front End Developer.
 <br /><br />
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-20232A.svg?style=for-the-badge&logo=Instagram&logoColor=0077B5)](https://uk.linkedin.com/in/chadrak-holondo-5622a91bb)
