@@ -17,7 +17,7 @@ A responsive expense tracker using React which allows you to add new expenses, f
 ![Id](https://img.shields.io/badge/Adobe%20InDesign-20232A?style=for-the-badge&logo=Adobe%20InDesign&logoColor=FF3366)
 
 ### About Me
-Recent Graphic Design graduate diving into the world of client-side programming looking to learn and work with new technologies, frameworks, and languages. Self-taught programmer, currently working with HTML, CSS, JavaScript, and React in the real estate industry as a Digital Designer, as well as honing my skills through personal projects which can all be found here. Currently, I'm working with HTML and CSS to build responsive emails at work, as well as using React to build dynamic and responsive applications and working with server-side technologies such as RESTful APIs to streamline products.
+Recent Graphic Design graduate diving into the world of client-side programming looking to learn and work with new technologies, frameworks, and languages. Self-taught programmer, currently working with HTML, CSS, JavaScript, and React in the real estate industry as a Digital Designer, as well as honing my skills through personal projects which can all be found here. Currently, I'm working with HTML and CSS to build responsive emails and websites, as well as learning to use React to build web applications and working with RESTful APIs.
 
 ## 📧 Get in Touch
 You can keep up with my professional career on LinkedIn or hop over to my Instagram <i> coming soon </i> for my personal journey from Graphic Design graduate to Front End Developer.
