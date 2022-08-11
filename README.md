@@ -17,10 +17,10 @@ A responsive expense tracker using React which allows you to add new expenses, f
 ![Id](https://img.shields.io/badge/Adobe%20InDesign-20232A?style=for-the-badge&logo=Adobe%20InDesign&logoColor=FF3366)
 
 ### About Me
-Recent Graphic Design graduate diving into the world of client-side programming looking to learn and work with new technologies, frameworks, and languages. Self-taught programmer, currently working with HTML, CSS, JavaScript, and React in the real estate industry as a Digital Designer, as well as honing my skills through personal projects which can all be found here. Currently, I'm working with HTML and CSS to build responsive emails and websites, as well as learning to use React to build web applications and working with RESTful APIs.
+Recent Graphic Design graduate and self taught programmer diving into the world of code. Currently working as a Software Developer in financial services building web applications using React for the UI and Java backend. This GitHub serves as an environment for building on my knowledge and experimenting with personal projects.
 
 ## 📧 Get in Touch
-You can keep up with my professional career on LinkedIn or hop over to my Instagram <i> coming soon </i> for my personal journey from Graphic Design graduate to Front End Developer.
+Feel free to get in touch or follow my personal journey from Graphic Design graduate to Software Developer on Instagram through my Instagram <i>coming soon</i>.
 <br /><br />
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-20232A.svg?style=for-the-badge&logo=Instagram&logoColor=0077B5)](https://uk.linkedin.com/in/chadrak-holondo-5622a91bb)
 [![Instagram](https://img.shields.io/badge/Instagram-20232A.svg?style=for-the-badge&logo=Instagram&logoColor=23E4405F)](https://www.instagram.com/chadrak.ai/)
