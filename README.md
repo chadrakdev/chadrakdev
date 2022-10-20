@@ -1,8 +1,8 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chadrakh&count_private=true&show_icons=true&theme=onedark&custom_title=Chadrak's&nbsp;GitHub&nbsp;Profile&bg_color=0d1117&icon_color=61DAFB&text_color=ffffff&title_color=ffffff)
 
 ## ✨ Project Spotlight
-### React Expense Tracker
-A responsive expense tracker using React which allows you to add new expenses, filter existing expenses, and it also provides a visual of exenditures for the chosen year by month. The next update will be to save new expenses to local storage when the application is ran and to add an export button which will allow the user to export the expenditures.
+### Gaming Dashboard UI
+Placeholder
 
 ### Tech Stack
 ![HTML](https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=E34F26)
@@ -17,7 +17,7 @@ A responsive expense tracker using React which allows you to add new expenses, f
 ![Id](https://img.shields.io/badge/Adobe%20InDesign-20232A?style=for-the-badge&logo=Adobe%20InDesign&logoColor=FF3366)
 
 ### About Me
-Recent Graphic Design graduate and self taught programmer diving into the world of code. Currently working as a Software Developer in financial services building web applications using React for the UI and Java backend. This GitHub serves as an environment for building on my knowledge and experimenting with personal projects.
+Recent Graphic Design graduate and self taught programmer diving into the world of code. Currently working as a Software Developer in financial services building web applications with React and Java. This GitHub serves as an environment for building on my knowledge and experimenting with personal projects.
 
 ## 📧 Get in Touch
 Feel free to get in touch or follow my personal journey from Graphic Design graduate to Software Developer on Instagram through my Instagram <i>coming soon</i>.
