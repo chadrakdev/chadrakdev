@@ -5,7 +5,7 @@
 <i>Description coming soon...</i>
 
 ### About Me
-Hi! I'm a recent graduate and self-taught programmer, currently working as a Software Developer and spending my time working on building applications in languages such as Java, Python and JavaScript. This GitHub serves as an online portfolio for displaying personal projects, as well as an environment for building on my knowledge and contributing to open-source projects.
+I'm a recent graduate and self-taught programmer, currently working as a Software Developer and spending my time working on building applications in languages such as Java, Python and JavaScript. This GitHub serves as an online portfolio for displaying personal projects, as well as an environment for building on my knowledge and contributing to open-source projects.
 
 ### Tech Stack
 ![HTML](https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=E34F26)
