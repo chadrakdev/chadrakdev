@@ -12,7 +12,7 @@ Hi! I'm a recent graduate and self-taught programmer, currently working as a Sof
 ![CSS](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React JS](	https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Java](https://img.shields.io/badge/java-%20232A.svg?style=for-the-badge&logo=java&logoColor=23ED8B00)
+![Java](https://img.shields.io/badge/java-20232A.svg?style=for-the-badge&logo=java&logoColor=23ED8B00)
 
 ## 📧 Get in Touch
 Feel free to get in touch with me on <i>LinkedIn</i>.
