@@ -1,4 +1,4 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?user=chadrakh&count_private=true&show_icons=true&theme=onedark&custom_title=Chadrak's&nbsp;GitHub&nbsp;Profile&bg_color=0d1117&icon_color=61DAFB&text_color=ffffff&title_color=ffffff)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chadrakh&count_private=true&show_icons=true&theme=onedark&custom_title=Chadrak's&nbsp;GitHub&nbsp;Profile&bg_color=0d1117&icon_color=61DAFB&text_color=ffffff&title_color=ffffff)
 
 ## ✨ Project Spotlight
 ### Video Game Distribution App UI
