@@ -13,7 +13,7 @@ Deploying personal Vercel instance for hosting GitHub Stats
 ### 💻 About
 The majority of my working experience has been with Java, C# and JavaScript, but I like to work on various projects in my free time to become familiar with other languages as well as build on my existing knowledge. This GitHub serves as an online portfolio for displaying those projects, as well as collaborating with other developers and contributing to open source repositories.
 
-## 📧 Contact
+### 📧 Contact
 Feel free to get in touch with me on <i>LinkedIn</i>!
 <br /><br />
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-20232A.svg?style=for-the-badge&logo=Instagram&logoColor=0077B5)](https://www.linkedin.com/in/chadrakholondo/)
