@@ -4,11 +4,11 @@ Deploying personal Vercel instance for hosting GitHub Stats
 [Link:] https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance
 -->
 
-## ✨ Project Spotlight
+<!-- ## ✨ Project Spotlight
 ### Game Launcher Application
 <b>Repository:</b> https://github.com/chadrakh/GameLauncherApp
 <br>
-<i>Description coming soon...</i>
+<i>Description coming soon...</i> -->
 
 ### 💻 About
 The majority of my working experience has been with Java, C# and JavaScript, but I like to work on various projects in my free time to become familiar with other languages as well as build on my existing knowledge. This GitHub serves as an online portfolio for displaying those projects, as well as collaborating with other developers and contributing to open source repositories.
