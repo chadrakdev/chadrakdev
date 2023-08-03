@@ -10,5 +10,4 @@ Deploying personal Vercel instance for hosting GitHub Stats
 <br>
 <i>Description coming soon...</i> -->
 
-### About me
-The majority of my working experience has been with Java, C# and JavaScript, but I like to work on various projects in my free time for fun and to build on my experience, most of which can be found here along with any collaborative projects and open source contributions.
+Main working experience has been with Java, C# and JavaScript, but I like to work on various projects in my free time for fun and to build on my experience, most of which can be found here along with any collaborative projects and open source contributions.
