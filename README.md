@@ -1,6 +1,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chadrakh&count_private=true&show_icons=true&theme=onedark&custom_title=Chadrak's&nbsp;GitHub&nbsp;Profile&bg_color=0d1117&icon_color=61DAFB&text_color=ffffff&title_color=ffffff)
 <!--
-Deploying personal Vercel instance for hosting GitHub Stats
+Deploy Vercel instance to host stats
 https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance
 -->
 <hr />
