@@ -10,4 +10,4 @@ https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-ins
 <br>
 <i>Description coming soon...</i> -->
 
-Experience developing with Java, C# and JavaScript (as well TypeScript), working in the industry and on personal projects in my free time; most of which can be found here. I've been trying to contribute more to open-source projects, so you can see a bit of that here and there.
+Experienced (and passionate) software developer, primarily working in Java, C# and TypeScript, with a strong background in full-stack software development gained through hands-on experience in fin-tech and real estate industries. The work I am most proud of can be seen highlighted below, P.S. feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/chadrakholondo/)!
