@@ -14,4 +14,5 @@ https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-ins
 
 Experienced (and passionate) programmer, primarily working in C#, Java and TypeScript, with a strong background in full-stack software development gained through hands-on experience in fin-tech and real estate industries. The work I am most proud of can be seen highlighted below.
 
-P.S. feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/chadrakholondo/)!
+P.S. feel free to connect with me on [Twitter](https://twitter.com/chadrakdev)
+ or [LinkedIn](https://www.linkedin.com/in/chadrakholondo/)!
