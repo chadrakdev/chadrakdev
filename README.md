@@ -4,11 +4,11 @@ Deploy personal Vercel instance to host stats (eventually) to avoid spontaneous 
 https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance
 -->
 <hr />
-<!-- ## ✨ Project Spotlight
-### Game Launcher Application
-<b>Repository:</b> https://github.com/chadrakh/GameLauncherApp
+## ✨ Project Spotlight
+### Game Store API
+<b>Repository:</b> https://github.com/chadrakh/game-store-api
 <br>
-<i>Description coming soon...</i> -->
+<i>A .NET MVC backend that consumes and parses data from the Steam API, mapping the data to usable models for consumption and also includes interfaced services for API integration and data handling.</i>
 
 <b>Current side-quest:</b> diving into iOS development with Swift
 
