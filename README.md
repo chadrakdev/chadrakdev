@@ -6,15 +6,12 @@ https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-ins
 <hr />
 
 ### 👨🏾‍💻 About me
-Experienced (and passionate) programmer, primarily working in C#, Java and TypeScript, with a strong background in full-stack software development gained through hands-on experience in fin-tech and real estate industries. The work I am most proud of can be seen highlighted below.
+I am a passionate developer, primarily working in C# and React, in a full-stack environment with experience in both financial and real estate marketing services. 
 
-<b>Current side-quest:</b> developing an iOS application with Swift
+I enjoy spending my time building different projects, so I scratch that itch with freelance work as well as personal projects - the more fun ones can be found further down under my <i>Pinned</i> projects (if you're interested) or you can check them out on my [portfolio](https://chadrak.dev).
 
 ### ✨ Project Spotlight
-[Game Store API](https://github.com/chadrakh/game-store-api)
+#### Game Store API
+[Repo](https://github.com/chadrakh/game-store-api)
 
 A .NET MVC backend that consumes and parses data from the Steam API, mapping the data to usable models for consumption and also includes interfaced services for API integration and data handling.
-
-### 👋 Connect
-
-Check out my [portfolio](https://chadrak.dev) and get connected!
