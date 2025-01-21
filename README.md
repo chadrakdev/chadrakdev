@@ -10,8 +10,6 @@ Experienced (and passionate) programmer, primarily working in C#, Java and TypeS
 
 <b>Current side-quest:</b> developing an iOS application with Swift
 
-<hr />
-
 ### ✨ Project Spotlight
 [Game Store API](https://github.com/chadrakh/game-store-api)
 
