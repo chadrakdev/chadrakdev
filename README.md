@@ -15,6 +15,6 @@ Experienced (and passionate) programmer, primarily working in C#, Java and TypeS
 
 A .NET MVC backend that consumes and parses data from the Steam API, mapping the data to usable models for consumption and also includes interfaced services for API integration and data handling.
 
-### 👋 Conntect
+### 👋 Connect
 
 Check out my [portfolio](https://chadrak.dev) and get connected!
