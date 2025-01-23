@@ -12,6 +12,4 @@ I enjoy spending my time building different projects, so I scratch that itch wit
 
 ### ✨ Project Spotlight
 #### Game Store API
-[Repo](https://github.com/chadrakh/game-store-api)
-
-A .NET MVC backend that consumes and parses data from the Steam API, mapping the data to usable models for consumption and also includes interfaced services for API integration and data handling.
+A backend application built with .NET, following the MVC pattern, that consumes and parses data from the Steam API, mapping the data to usable models for consumption and also includes interfaced services for API integration and data handling.
