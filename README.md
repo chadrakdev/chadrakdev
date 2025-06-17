@@ -11,5 +11,5 @@ I am a passionate developer, primarily working in C# and React, in a full-stack 
 I enjoy spending my time building different projects, so I scratch that itch with freelance work as well as personal projects - the more fun ones can be found further down under my <i>Pinned</i> projects (if you're interested) or you can check them out on my [portfolio](https://chadrak.dev).
 
 ### ✨ Project Spotlight
-#### Game Store API
-A backend application built with .NET, following the MVC pattern, that consumes and parses data from the Steam API, mapping the data to usable models for consumption and also includes interfaced services for API integration and data handling.
+#### HoopInsights API
+Backend .NET MVC application integrating with an external API to provide advanced basketball statistics.
