@@ -6,7 +6,7 @@ https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-ins
 <hr />
 
 ### 👨🏾‍💻 About me
-I am a passionate developer, primarily working in C# and React, in a full-stack environment with experience in both financial and real estate marketing services. 
+I'm a full-stack developer primarily working in C# and React, with experience in both financial and real estate marketing services. 
 
 I enjoy spending my time building different projects, so I scratch that itch with freelance work as well as personal projects - the more fun ones can be found further down under my <i>Pinned</i> projects (if you're interested) or you can check them out on my [portfolio](https://chadrak.dev).
 
