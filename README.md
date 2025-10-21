@@ -1,15 +1,8 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chadrakdev&count_private=true&show_icons=true&theme=onedark&custom_title=Chadrak's&nbsp;GitHub&nbsp;Profile&bg_color=0d1117&icon_color=61DAFB&text_color=ffffff&title_color=ffffff)
-<!--
-Deploy personal Vercel instance to host stats (eventually) to avoid spontaneous downtime
-https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance
--->
 <hr />
 
-### 👨🏾‍💻 About me
-I'm a full-stack developer primarily working in C# and React, with experience in both financial and real estate marketing services. 
+### 👨🏾‍💻 About
+I'm a software developer with experience in both financial and consulting services. I enjoy spending my time working on personal projects - my more recent work can be seen <i>Pinned</i> below, or you can check out my [portfolio](https://chadrak.dev).
 
-I enjoy spending my time building different projects, so I scratch that itch with freelance work as well as personal projects - the more fun ones can be found further down under my <i>Pinned</i> projects (if you're interested) or you can check them out on my [portfolio](https://chadrak.dev).
-
-### ✨ Project Spotlight
-#### HoopInsights API
-Backend .NET MVC application integrating with an external API to provide advanced basketball statistics.
+#### ✨ Project Spotlight - HoopInsightsAPI
+An API integrating which integrates with an source to fetch historical NBA data to provide statistics on teams and players.
